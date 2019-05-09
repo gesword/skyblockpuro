@@ -1,0 +1,29 @@
+---
+name: "SkyBlockPuro"
+url: "skyblockpuro"
+hidden: false
+only-premium: false
+versions:
+- "1.12"
+- "1.14"
+categories:
+- "minigames"
+- "pvp"
+- "skygames"
+staff:
+www: "http://buy.skyblockpuro.it"
+forum: "https://skyblockpuro.forumfree.it"
+telegram: "https://t.me/skyblockpuro"
+discord: "https://discord.gg/eQpKrdN"
+twitter: 
+ts: "ts.skyblockpuro.it"
+query_port: 25565
+theme_color: "#2173c3"
+---
+Descrizione del server in formato Markdown.
+
+#### Presentazione
+![Image](https://image.ibb.co/iUfymJ/skyblockpuro.jpg)
+[![Image](https://i.ibb.co/26sgMrJ/click.png)](mailto:irondirt.chanel@gmail.com?subject=Supporto%20SkyBlockPuro)
+
+![Server logo](https://www.minecraft-italia.it/media/server/logo/307b9296ab96143195ea5db9f4f47672.jpg)
