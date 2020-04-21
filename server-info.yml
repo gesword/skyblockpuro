@@ -1,25 +1,34 @@
 ---
 name: "SkyBlockPuro"
-url: "skyblockpuro"
+url: "SkyBlockPuro"
 hidden: false
 only-premium: false
 versions:
-- "1.12"
-- "1.14"
+- "1.15"
+- "1.15.2"
 categories:
-- "minigames"
 - "pvp"
 - "skygames"
 staff:
-www: "http://buy.skyblockpuro.it"
-forum: "https://skyblockpuro.forumfree.it"
-telegram: "https://t.me/skyblockpuro"
-discord: "https://discord.gg/9vDQ92x"
-twitter: 
-ts: "ts.skyblockpuro.it"
-query_port: 25565
+- Founder:
+  - "2e5e2d74-b0bf-41be-84b7-ee4da46a6188"
+forum: "https://skyblockpuro.forumfree.it/"
+shop: "http://skyblock-puro.tebex.io/"
+query_port: 25631
 theme_color: "#2173c3"
 ---
+###### [mc.skyblockpuro.it:25631]() {:.white--text}
+{:.grey .darken-4}
+{:.text-xs-center}
+{:.pt-2 .pb-2}
+{:.mb-0}
+
+![Server logo](https://i.ibb.co/Xsp6KFR/banner.jpg)
+
 #### Presentazione
-![Image](https://image.ibb.co/iUfymJ/skyblockpuro.jpg)
-[![Image](https://i.ibb.co/26sgMrJ/click.png)](mailto:irondirt.chanel@gmail.com?subject=Supporto%20SkyBlockPuro)
+Un server bellissimo. Collegati ora su [mc.skyblockpuro.it:25631]()!
+
+#### SkyBlockPuro
+Il classico server SkyBlock ma con uno BuyShop molto limitato per redendere più difficile l'avventura e la creatività della tua isola.
+Inoltre troverai uno SellShop completo di tutti i materiali e un PlayerShop per vendere i tuoi materiali che serviranno per la costruzione delle isole e le missioni
+
