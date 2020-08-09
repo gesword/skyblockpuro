@@ -1,34 +1,33 @@
 ---
-name: "SkyBlockPuro"
-url: "SkyBlockPuro"
+name: "craftplusurvival"
+url: "craftplusurvival.aternos.me"
 hidden: false
 only-premium: false
 versions:
-- "1.15"
-- "1.15.2"
+- "1.16.1"
+- "1.16.1"
 categories:
-- "pvp"
-- "skygames"
-staff:
-- Founder:
-  - "2e5e2d74-b0bf-41be-84b7-ee4da46a6188"
-forum: "https://skyblockpuro.forumfree.it/"
-shop: "http://skyblock-puro.tebex.io/"
+- "vanilla"
+
+staff: (coming soon)
+- Founder: alex13alexboy/ Pandarix007
+  
+forum: 
+shop: 
 query_port: 25631
-theme_color: "#2173c3"
+theme_color: 
 ---
-###### [mc.skyblockpuro.it:25631]() {:.white--text}
+###### [craftplusurvival.aternos.me]() {:.white--text}
 {:.grey .darken-4}
 {:.text-xs-center}
 {:.pt-2 .pb-2}
 {:.mb-0}
 
-![Server logo](https://i.ibb.co/Xsp6KFR/banner.jpg)
+![Server logo](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdnb.artstation.com%2Fp%2Fassets%2Fimages%2Fimages%2F010%2F412%2F341%2Flarge%2Fvictycoon-art-logo-reiscraft-p15-2.jpg%3F1524275074&imgrefurl=https%3A%2F%2Fvictycoon.artstation.com%2Fprojects%2FyO5vn&tbnid=sguZg6YayStFuM&vet=12ahUKEwjX58Kyx43rAhWOzCoKHdI4CFMQMygPegUIARC1AQ..i&docid=P_diWYHamMlFvM&w=1920&h=1920&q=minecraft%20logo%20per%20server&ved=2ahUKEwjX58Kyx43rAhWOzCoKHdI4CFMQMygPegUIARC1AQ)
 
 #### Presentazione
-Un server bellissimo. Collegati ora su [mc.skyblockpuro.it:25631]()!
+Un server bellissimo. Collegati ora su [craftplusurvival]()!
 
 #### SkyBlockPuro
-Il classico server SkyBlock ma con uno BuyShop molto limitato per redendere più difficile l'avventura e la creatività della tua isola.
-Inoltre troverai uno SellShop completo di tutti i materiali e un PlayerShop per vendere i tuoi materiali che serviranno per la costruzione delle isole e le missioni
-
+un serveer basato sulla classica vanilla multiplayer,ma aggiunte di torneo ogni mese/settimana in un arena.
+con uno shop ancora in lavorazione ma il server in se è pronto collegatevi ora! IP: craftplusurvival.aternos.me
